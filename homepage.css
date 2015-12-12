@@ -1,0 +1,36 @@
+
+body{
+    background-image: url("https://premiumcoding.com/wp-content/uploads/2014/02/space-background1.png");
+     font-size: 35px;
+} 
+.whole{
+    margin:auto;
+    width:800px;
+}
+    h1{
+  text-align: center;
+  color: white;
+  }
+  
+ h2{
+ text-align: center;
+ color: #009900; 
+ }
+ 
+ p {
+ font-family: "Dancing Script"; 
+ color:white;
+
+ }
+ .next{
+     border: 2px solid blue;
+     width: 100px;
+     background-color:#00cc00;
+     float:right;
+     text-align:center;
+ }
+ 
+ a{
+     color:red;
+     text-decoration:none;
+ }

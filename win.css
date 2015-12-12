@@ -1,0 +1,17 @@
+
+body { 
+    background-color:black;
+}
+img {
+    width:700px; height:700px; 
+}
+h1{
+    text-align:center; color:blue;
+}
+h2{
+    text-align:center; color:red;
+}
+.newgame{
+text-align: right;
+font-size: 50px;
+}
